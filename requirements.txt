@@ -1,0 +1,6 @@
+pandas
+pdfplumber
+pytesseract
+opencv-python
+requests
+openpyxl
